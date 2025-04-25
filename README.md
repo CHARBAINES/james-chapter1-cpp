@@ -10,6 +10,9 @@ functions.h, maps_header.h, functions.cpp, main.cpp
 
 These have been compiled for Linux and Windows.
 
+Linux: chapter1
+
+Windows: chapter1.exe
 
 This program was a personal challenge to rewrite in C++ the Python program that I created for this lookup.
 
